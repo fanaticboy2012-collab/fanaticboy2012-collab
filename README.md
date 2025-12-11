@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amesh</h1>
-<h3 align="center">I'm a student currently learning **web development**, focusing on creating clean, responsive, and interactive websites.</h3>
+<h3 align="center">I'm a student currently learning web development, focusing on creating clean, responsive, and interactive websites.</h3>
 
-<h3 align="left">Connect with me:</h3>
+- 📫 **fanaticboy2012@gmail.com**
+
+- ⚡ **Jisoo <3**
+
 <p align="left">
 </p>
 
