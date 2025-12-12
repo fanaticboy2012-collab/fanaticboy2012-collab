@@ -5,10 +5,9 @@
 
 ## 🌟 About Me
 
-* 🎓 **Currently Learning:** Deep dive into modern **JavaScript** frameworks (like React/Vue) and improving my **UI/UX** design principles.
-* 💻 **Focus:** Building fully responsive, performant, and accessible front-end applications.
+* 🎓 **Currently Learning:** Deep dive into modern **JavaScript** frameworks (like React) and improving my **UI/UX** design principles.
+* 💻 **Focus:** Building fully responsive, performant websites.
 * 🌱 **My Goal:** To collaborate on challenging projects and turn complex ideas into beautiful, functional web experiences.
-* 🌐 **Check out my latest project:** [Link to your best/most recent project repo]
 * 💬 **Ask Me About:** Anything related to **HTML, CSS, JavaScript**, or **Linux**!
 
 ---
