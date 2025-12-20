@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Amesh
-### A Student Web Developer | Creating Clean, Responsive, and Interactive Websites.
+### A Student and Web Developer | Creating Clean, Responsive, and Interactive Websites.
 
 ---
 
