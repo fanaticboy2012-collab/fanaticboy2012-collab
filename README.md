@@ -32,7 +32,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Socials
 
 <p align="left">
     <a href="https://linkedin.com/in/www.linkedin.com/in/ameshtmagar" target="blank">
