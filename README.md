@@ -8,7 +8,6 @@
 * 🎓 **Currently Learning:** Deep dive into modern **JavaScript** frameworks (like React) and improving my **UI/UX** design principles.
 * 💻 **Focus:** Building fully responsive, performant websites.
 * 🌱 **My Goal:** To collaborate on challenging projects and turn complex ideas into beautiful, functional web experiences.
-* 💬 **Ask Me About:** Anything related to **HTML, CSS, JavaScript**, or **Linux**!
 
 ---
 
