@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 
-* 🎓 **Currently Learning:** Deep dive into modern **JavaScript** frameworks (like React) and improving my **UI/UX** design principles.
+* 🎓 **Currently Learning:** Deep dive into modern **JavaScript** frameworks (like React).
 * 💻 **Focus:** Building fully responsive, performant websites.
 * 🌱 **My Goal:** To collaborate on challenging projects and turn complex ideas into beautiful, functional web experiences.
 
