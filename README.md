@@ -1,4 +1,4 @@
-# Hi 👋, I'm Amesh 2026
+# Hi 👋, I'm Amesh 
 ### A Student and Web Developer | Creating Clean, Responsive, and Interactive Websites.
 
 ---
